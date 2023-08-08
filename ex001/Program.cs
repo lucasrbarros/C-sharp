@@ -17,7 +17,7 @@ namespace ex001
             double preco1 = 2100.0;
             double preco2 = 650.50;
             double medida = 53.234567;
-            double preco3 = 1000;
+            double preco3 = 890;
 
 
             Console.WriteLine("Produtos:");
