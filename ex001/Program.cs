@@ -18,9 +18,7 @@ namespace ex001
             double preco2 = 650.50;
             double medida = 53.234567;
             double preco3 = 500;
-            double preco4 = 1000000;
-            double preco5 = 1023712
-
+            double preco4 = 859;
 
             Console.WriteLine("Produtos:");
             Console.WriteLine($"{produto1} , cujo preço é  $ {preco1}");
