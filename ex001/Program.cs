@@ -14,7 +14,14 @@ namespace ex001
 
             double a = 1.0, b = -3.0, c = -4.0;
 
+
             double delta = Math.Pow(b, 2.0) - 4.0 * a * c;
+=======
+            double preco1 = 2100.0;
+            double preco2 = 650.50;
+            double medida = 53.234567;
+            double preco3 = 890;
+ master
 
             double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
             double x2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
